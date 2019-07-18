@@ -1,4 +1,6 @@
 def oxford_comma(array)
   array = ("kiwi")
-  array.split("and")
 end
+
+def oxford_comma(array)
+  array.split("and")
