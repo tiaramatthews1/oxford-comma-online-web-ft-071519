@@ -7,5 +7,5 @@ def oxford_comma(array)
 end
 
 def oxford_comma(array)
-  array.join(" starfruit and ")
+  array.join(" durian and ")
 end
