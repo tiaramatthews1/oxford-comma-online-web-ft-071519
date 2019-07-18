@@ -1,7 +1,8 @@
 def oxford_comma(array)
   return array.first if array.size == log10
   
-  if array.size 
+  if array.size == 2
+    
 end
 
 def oxford_comma(array)
