@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  return 
+  return array.first 
 end
 
 def oxford_comma(array)
